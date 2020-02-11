@@ -1,0 +1,17 @@
+img {
+	width: 30%;
+	/*each image will take up 30% of the body*/
+	float: left;
+	margin: 1.66%;
+	/*3 images* 30% = 90%; we needed to divide our leftover
+	10% by 6 for six different margins; 10/6=1.66*/
+}
+p {
+	font-family: Raleway;
+	margin-left: 1.66%;
+	font-size: 25px;
+	font-weight: 800;
+	width: 63.22%;
+	border-bottom: 2px solid gray;
+	padding-bottom: 20px;
+}
