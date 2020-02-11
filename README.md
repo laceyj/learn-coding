@@ -39,3 +39,14 @@ My first project I want to build will be a simple inventory web app for managing
 I also have learning more about Git on my list. I have some YouTube videos saved to watch and some documentation to read. I'm hoping the web dev course might address some of that too. 
 
 If you need me, I'll be at my computer! (Or reading a book when I need some downtime.)
+
+# DAY 32: 2/10/2020
+Time Spent: ~55-60 hours
+
+I'm enjoying The Web Development Bootcamp course I started a few days ago. I've already gone through the initial HTML and CSS sections and although I've been exposed to both in the past it's FINALLY clicking in a way it never has! This has been super encouraging. I'm figuring out that a big part of learning web development involves reading documentation and looking things up on MDN in addition to writing code and doing the courses I'm doing. I've done some reading on git and GitHub and am anxious to use it once I get to the Javascript section of my current course. 
+
+Everything I'm learning has rekindled this love of technology I have, and I find myself wanting to tinker with things more than I have been lately. I wrote a simple bash script to launch all of my development/productivity apps I'm using so that when I get home from work I can just run the executable file and it will <b><em>magically</b></em> launch them for me. It was super easy and fast and works like a charm!
+
+I am not sure why I waited to do this but I offically started the #100DaysofCode challenge on Twitter 3 days ago and even though I am really 32 days in I decided to start from Day 1. I don't think it will be difficult at all to write a quick tweet logging my progress for the day and interacting with a couple of other #100DaysofCode(rs). I knew from the beginning that I didn't want to write longform journal entries about my daily progress because I didn't want it to slow me down...but I think it will be good to do the simple tweets and then in 100 days look back on my progress. I am still averaging 2 1/2-3 hours a day learning and coding and when I can I try to do extra time. I start a second job soon so I will literally only have one hour a day of "extra" time to learn/code (unless I get less than 7 hours of sleep a night but I don't want to burn out). It's a temporary job I do for extra money in the spring months so it won't last forever but it will slow me down just a bit. I will try to make sure the one hour I do have is very productive when I get to that point. 
+
+Now that I've finished the HTML and CSS sections, Bootstrap is next! I am excited about learning some frameworks and diving in deep to Javascript. Time to tighten my bootstraps. Sorry. :/
